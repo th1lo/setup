@@ -21,15 +21,13 @@ brew install --cask dropbox
 brew install --cask transmission
 brew install --cask alt-tab
 brew install --cask monitorcontrol
-brew install --cask sizeup
 brew install --cask numi
-brew install --cask cheatsheet
 brew install --cask appcleaner
-brew install --cask cleanshot
-brew install --cask alfred
+brew install --cask raycast
 brew install --cask keka
 brew install --cask bartender
 brew install --cask downie
+brew install --cask eurkey
 
 # Media
 brew install --cask spotify
