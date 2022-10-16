@@ -19,7 +19,6 @@ brew install --cask linearmouse
 brew install --cask expressvpn
 brew install --cask dropbox
 brew install --cask transmission
-brew install --cask alt-tab
 brew install --cask monitorcontrol
 brew install --cask numi
 brew install --cask appcleaner
